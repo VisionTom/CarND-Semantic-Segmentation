@@ -1,4 +1,10 @@
 # Semantic Segmentation
+
+###
+![Straight](runs/1524054995.0300221/um_000007.png) 
+![Straight](runs/1524054995.0300221/um_000017.png) 
+![Straight](runs/1524054995.0300221/um_000032.png) 
+
 ### Introductions
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
