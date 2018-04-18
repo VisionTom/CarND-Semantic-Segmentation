@@ -8,7 +8,7 @@
 ![Straight](runs/1524054995.0300221/um_000025.png) 
 ![Straight](runs/1524054995.0300221/um_000040.png) 
 ![Straight](runs/1524054995.0300221/um_000058.png) 
-![Straight](runs/1524054995.0300221/um_000096.png) 
+![Straight](runs/1524054995.0300221/uu_000096.png) 
 
 
 ### Introductions
